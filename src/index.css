@@ -437,7 +437,7 @@ a:hover {
 .app {
   width: 100%;
   min-height: 100vh;
-  background-color: var(--color-primary);
+  background: linear-gradient(to right, #076585, #ffffff);;
   display: flex;
   flex-direction: column;
   justify-content: center;
